@@ -11,16 +11,16 @@ Cần đi ngược từ problem → pain → behavior → evidence → opportuni
 
 | Stakeholder                                  | Vai trò                                      | Mức độ liên quan |
 | -------------------------------------------- | -------------------------------------------- | ---------------- |
-| **Học viên**                                 | Người đang học, tạo ra các tín hiệu hành vi  |  Cao           |
-| **Giảng viên**                               | Người phát hiện, đánh giá và hỗ trợ học viên | Cao            |
-| **Trợ giảng / Teaching Assistant**           | Theo dõi, giải đáp và hỗ trợ học viên        | Trung bình             |
-| **Learning Support / Academic Advisor**      | Theo dõi học viên có nguy cơ không đạt       | Trung bình             |
-| **Instructional Designer / Course Designer** | Thiết kế nội dung và trải nghiệm học tập     | Thấp              |
-| **Quản lý đào tạo / Program Manager**        | Chịu trách nhiệm outcome của khóa học        | Trung bình             |
-| **LMS Administrator / Product Owner**        | Quản lý hệ thống và dữ liệu học tập          | Ít ảnh hưởng              |
-| **Nhà trường / tổ chức đào tạo**             | Chịu trách nhiệm về chất lượng đào tạo       | Trung bình              |
-| **Phụ huynh / đơn vị cử đi học**             | Có thể quan tâm đến kết quả học tập          | Thấp               |
-| **IT / Data / AI team**                      | Xây dựng và vận hành solution                | Thấp               |
+| **Học viên**                                 | Người đang học, tạo ra các tín hiệu hành vi  | Cao              |
+| **Giảng viên**                               | Người phát hiện, đánh giá và hỗ trợ học viên | Cao              |
+| **Trợ giảng / Teaching Assistant**           | Theo dõi, giải đáp và hỗ trợ học viên        | Trung bình       |
+| **Learning Support / Academic Advisor**      | Theo dõi học viên có nguy cơ không đạt       | Trung bình       |
+| **Instructional Designer / Course Designer** | Thiết kế nội dung và trải nghiệm học tập     | Thấp             |
+| **Quản lý đào tạo / Program Manager**        | Chịu trách nhiệm outcome của khóa học        | Trung bình       |
+| **LMS Administrator / Product Owner**        | Quản lý hệ thống và dữ liệu học tập          | Ít ảnh hưởng     |
+| **Nhà trường / tổ chức đào tạo**             | Chịu trách nhiệm về chất lượng đào tạo       | Trung bình       |
+| **Phụ huynh / đơn vị cử đi học**             | Có thể quan tâm đến kết quả học tập          | Thấp             |
+| **IT / Data / AI team**                      | Xây dựng và vận hành solution                | Thấp             |
 
 **Stakeholder nên phỏng vấn đầu tiên**  
 Tôi sẽ ưu tiên:
@@ -235,30 +235,30 @@ Khi đó mới có thể hình thành: AI Support Radar và từng thành phần
 
 ## 9. 5 câu hỏi phỏng vấn
 
-**Câu 1 — Recent incident**
+### Câu 1 — Recent incident
 
 "Hãy kể cho tôi lần gần nhất bạn nhận ra một học viên đang gặp khó khăn trong quá trình học. Bạn phát hiện ra điều đó như thế nào?"
 
 Mục tiêu: Discovery → hiện trạng → trigger → workflow.
 
-**Câu 2 — Hidden problem**
+### Câu 2 — Hidden problem
 
 "Có trường hợp nào bạn nghĩ rằng một học viên đang gặp khó khăn nhưng họ không trực tiếp nói với bạn không? Bạn đã dựa vào dấu hiệu nào để nhận biết?"
 
 Mục tiêu: Kiểm chứng assumption: Learning difficulty không được verbalize. Đồng thời tìm ra các signals mà con người hiện đang sử dụng.
 
-**Câu 3 — Current workaround**
+### Câu 3 — Current workaround
 
 "Khi bạn cần xác định học viên nào cần hỗ trợ, hiện tại bạn thường kiểm tra những thông tin hoặc dấu hiệu nào? Quy trình đó mất bao nhiêu thời gian và phần nào khó nhất?"
 
 Mục tiêu: xác định pain của giảng viên.
 
-**Câu 4 — Consequence / missed intervention**
+### Câu 4 — Consequence / missed intervention
 
 "Hãy kể một trường hợp bạn phát hiện ra vấn đề của học viên quá muộn. Điều gì đã xảy ra và nếu biết sớm hơn thì bạn có thể đã làm gì khác?"
 
 Nếu interviewee không thể kể được một case thực tế, cần đặt dấu hỏi lớn về mức độ nghiêm trọng của problem.
 
-**Câu 5 — Decision & trust**
+### Câu 5 — Decision & trust
 
 "Nếu hệ thống chỉ cho bạn một danh sách học viên có khả năng cần hỗ trợ, bạn cần biết những thông tin gì để quyết định có thực sự liên hệ với họ hay không?"
