@@ -1,9 +1,14 @@
 # Track 1- Day 17
+
 ## Case C: AI Support Radar
+
 Bản phân tích cá nhân về bài tập trong ngày 17 của chương trình AI thực chiến
+
 ---
 Cần đi ngược từ problem → pain → behavior → evidence → opportunity → solution.
+
 ## 1. Xác định stakeholder
+
 | Stakeholder                                  | Vai trò                                      | Mức độ liên quan |
 | -------------------------------------------- | -------------------------------------------- | ---------------- |
 | **Học viên**                                 | Người đang học, tạo ra các tín hiệu hành vi  |  Cao           |
@@ -17,7 +22,6 @@ Cần đi ngược từ problem → pain → behavior → evidence → opportuni
 | **Phụ huynh / đơn vị cử đi học**             | Có thể quan tâm đến kết quả học tập          | Thấp               |
 | **IT / Data / AI team**                      | Xây dựng và vận hành solution                | Thấp               |
 
-
 **Stakeholder nên phỏng vấn đầu tiên**  
 Tôi sẽ ưu tiên:
 > Học viên → Giảng viên → Trợ giảng → Quản lý đào tạo
@@ -25,6 +29,7 @@ Tôi sẽ ưu tiên:
 Trong đó cần đặc biệt phỏng vấn học viên và giảng viên riêng biệt, vì họ có thể nhìn cùng một vấn đề theo hai hướng hoàn toàn khác nhau.
 
 ## 2. Ai trực tiếp trải nghiệm pain?
+
 Primary pain owner: Giảng viên
 
 Pain có khả năng tồn tại là:
@@ -80,17 +85,22 @@ Nhưng cũng có một behavior change thứ hai:
 Có thể phân tầng như sau:
 
 Học viên — hậu quả trực tiếp
+
 - Không hiểu kiến thức nền.
 - Tích lũy learning gap.
 - Kết quả học tập giảm.
 - Mất động lực.
 - Bỏ học hoặc disengage.
+
 Giảng viên — hậu quả vận hành
+
 - Không biết ai cần hỗ trợ.
 - Tốn thời gian tìm kiếm vấn đề.
 - Phải xử lý khi vấn đề đã trở nên nghiêm trọng.
 - Khó đảm bảo chất lượng lớp học.
+
 Nhà trường / chương trình đào tạo
+
 - Tỷ lệ hoàn thành thấp.
 - Kết quả học tập thấp.
 - Giảm chất lượng đào tạo.
@@ -136,6 +146,7 @@ Actor: Học viên
 Bằng cách hiện tại: Đọc lại slide → xem lại video → tìm Google → hỏi bạn → hoặc bỏ qua.
 
 Rào cản:
+
 - Không biết chính xác mình không hiểu ở đâu.
 - Ngại hỏi giảng viên.
 - Không muốn thừa nhận mình không hiểu.
@@ -212,7 +223,6 @@ Nếu phỏng vấn cho ra evidence như sau:
 | GV không tin dữ liệu đơn lẻ                      | Sợ false positive                                    | Evidence aggregation |
 | GV biết ai yếu nhưng không biết nên làm gì       | Detection ≠ intervention                             | Recommended action   |
 
-
 Khi đó mới có thể hình thành: AI Support Radar và từng thành phần của feature đều có provenance từ pain:
 
 1. "Những học viên có thể cần hỗ trợ" ← Pain: GV không thể manually identify everyone.
@@ -222,7 +232,6 @@ Khi đó mới có thể hình thành: AI Support Radar và từng thành phần
 3. "Các tín hiệu dẫn đến nhận định" ← Pain: GV không tin một prediction nếu không biết AI dựa vào đâu.
 
 4. "Hành động hỗ trợ được đề xuất" ← Pain: Detection alone không giúp GV giảm workload.
-
 
 ## 9. 5 câu hỏi phỏng vấn
 

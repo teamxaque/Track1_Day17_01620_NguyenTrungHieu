@@ -3,8 +3,9 @@
 **Nhóm:** G28
 
 **Thành viên:**
+
 | Họ và tên | MHV |
-|---|---|
+| --- | --- |
 | Nguyễn Trung Hiếu | 2A202601620 |  
 | Đặng Ngọc Anh | 2A202601706 |  
 
@@ -13,6 +14,7 @@
 Sau mỗi phiên học, hệ thống phân tích các tín hiệu như di chuyển giữa slide, dừng lâu hoặc xem lại, highlight và ghi chú, đánh dấu "Chưa hiểu", thay đổi câu trả lời, và nội dung trao đổi với AI Chat.
 
 AI tạo một **Support Queue** cho giảng viên, gồm:
+
 1. Những học viên có thể cần hỗ trợ.
 2. Phần nội dung mà họ có thể đang gặp khó khăn.
 3. Các tín hiệu dẫn đến nhận định đó.
@@ -33,6 +35,7 @@ Giảng viên xem lại và quyết định có liên hệ với học viên hay
 ### 1.2 Change — Chuỗi thay đổi kỳ vọng
 
 **Các thay đổi được kỳ vọng:**
+
 1. Sinh viên tương tác nhiều hơn với bài giảng.
 2. Giảng viên phản hồi các yêu cầu hỗ trợ của sinh viên kịp thời hơn, đúng nội dung hơn.
 3. Tỷ lệ sinh viên hoàn thành môn học được nâng cao.
@@ -45,7 +48,7 @@ Nếu user không thay đổi hành vi (giảng viên không đọc/phản hồi
 ### 1.3 Actor
 
 | Actor | Họ đang làm gì? | Pain/hậu quả có thể có | Hưởng lợi thế nào? |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Giảng viên | Giảng dạy lớp đông, không có kênh nào để biết ai đang vướng ở đâu | Quá tải, không nhận diện được nhu cầu hỗ trợ đúng lúc | Nhận diện sớm học viên cần hỗ trợ, can thiệp đúng nội dung |
 | Sinh viên | Học qua slide/tài liệu, có thể gặp khó nhưng không luôn lên tiếng | Hổng kiến thức tích lũy, kết quả học tập giảm | Được hỗ trợ kịp thời, đúng chỗ đang vướng |
 | Nhà quản lý giáo dục | Theo dõi chất lượng đào tạo tổng thể | Tỷ lệ bỏ học/kết quả kém ảnh hưởng đến chỉ số chung | Hưởng lợi gián tiếp từ kết quả học tập tốt hơn |
@@ -79,7 +82,7 @@ Khi gặp nội dung khó, sinh viên có nhận ra mình chưa hiểu nhưng kh
 ### 1.6 Evidence
 
 | Cần kiểm tra | Evidence làm nhóm tin hơn | Evidence làm nhóm nghi ngờ hoặc bác bỏ |
-|---|---|---|
+| --- | --- | --- |
 | Situation có thật | SV kể được một buổi học cụ thể gần đây có gặp nội dung khó | SV không nhớ được lần nào cụ thể, chỉ nói chung chung "thỉnh thoảng" |
 | Pain có ý nghĩa | SV mô tả hậu quả rõ ràng (mất điểm, phải học lại, bị rối ở bài sau) | SV nói "cũng không sao, học tiếp thôi" mà không có hậu quả nào |
 | Workaround tồn tại | SV kể workaround cụ thể đã dùng (hỏi bạn, hỏi AI Chat, tra Google) và công sức bỏ ra | SV không làm gì cả, hoặc không nhớ đã từng xử lý thế nào |
@@ -97,7 +100,7 @@ Giảng viên trong lớp học (đặc biệt mô hình hybrid) không có các
 **Solution Parking Lot:**
 
 | # | Hướng giải quyết có thể có | AI / Không sử dụng AI |
-|---|---|---|
+| --- | --- | --- |
 | 1 | Hệ thống AI phân tích tín hiệu hành vi và tạo Support Queue cho giảng viên (solution gốc) | AI |
 | 2 | Nút "Tôi chưa hiểu" đơn giản trên mỗi slide, tổng hợp thành báo cáo cuối buổi cho giảng viên | Không dùng AI |
 | 3 | Khảo sát nhanh cuối buổi (1-2 câu) gửi tự động, giảng viên xem kết quả tổng hợp | Không dùng AI |
@@ -121,5 +124,4 @@ Giảng viên trong lớp học (đặc biệt mô hình hybrid) không có các
 3. **Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?**
    > _(điền sau phỏng vấn)_
 
-## 4. AI Support Log
-
+## 4. AI Support Log  
